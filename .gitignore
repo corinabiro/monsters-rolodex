@@ -20,9 +20,9 @@
 
 .vscode
 
+corina
+corina.pub
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-corina
-corina.pub
